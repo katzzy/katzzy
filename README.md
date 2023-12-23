@@ -9,8 +9,8 @@ Hello, I am a master's student with research interests in few-shot learning and 
 
 ## Skills
 
-- **Python**: I have a strong command of Python programming, including data analysis, machine learning, and deep learning.
+- **Python**: I have a strong command of Python programming.
 - **Microcontrollers**: I have a good understanding of microcontrollers, including programming, interfacing, and hardware design.
 - **Algorithm Design**: I am interested in designing efficient and effective algorithms for complex problems.
 
-I look forward to combining my skills and interests in my future research and work to contribute to science and society. Feel free to connect and collaborate with me!
+I look forward to combining my skills and interests in my future research and work to contribute to science and society.
