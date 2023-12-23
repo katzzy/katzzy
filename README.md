@@ -1,20 +1,16 @@
-### Hi there 👋
+# About Me
 
-🔭 I am currently a master's student.
+Hello, I am a master's student with research interests in few-shot learning and multimodal learning. I am proficient in Python and have a good understanding of microcontrollers. I am also interested in algorithm design.
 
-🌱 My research interest is few shot learning.
+## Research Interests
 
-<!--
-**katzzy/katzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Few-Shot Learning**: I am deeply interested in learning how to make accurate predictions from a limited number of samples.
+- **Multimodal Learning**: I am fascinated by the integration and understanding of information from different sources (e.g., visual and auditory).
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**: I have a strong command of Python programming, including data analysis, machine learning, and deep learning.
+- **Microcontrollers**: I have a good understanding of microcontrollers, including programming, interfacing, and hardware design.
+- **Algorithm Design**: I am interested in designing efficient and effective algorithms for complex problems.
+
+I look forward to combining my skills and interests in my future research and work to contribute to science and society. Feel free to connect and collaborate with me!
